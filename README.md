@@ -1,12 +1,3 @@
-# Avaliação Sprint 3 - Programa de Bolsas Compass UOL / AWS e FURG/IFRS/UFFS
-
-## Equipe 5
-
-| Nome            | Linkedin                                                            |
-| --------------- | ------------------------------------------------------------------- |
-| Josué Fernandes | [Link](https://www.linkedin.com/in/josu%C3%A9-mendon%C3%A7a-dev77/) |
-| Cristofer Gaier | [Link](https://www.linkedin.com/in/cristofer-sais-a293591a0)        |
-| Felipe Marzani  | [Link](https://www.linkedin.com/in/felipemarzani/)                  |
 
 ## API - Utilizada
 
@@ -15,8 +6,6 @@
 ## Preview
 ![7tlae5](https://github.com/JosueFernandes7/FlappyBird_JS/assets/99553096/52f2159f-bc53-4412-8d4f-3766786397b6)
 
-## Acesso à aplicação 
-### **[Pokedex](http://ec2-44-202-50-86.compute-1.amazonaws.com:3000/)**
 ## Objetivo
 
 Criar um sistema de pesquisa de **pokémons**, o qual fornece informações iniciais dos pokémons da geração 1, como **nome**, **imagem** e **tipo**, podendo gerar ao usuário interesse para que ele interaja com a **interface visual** e obtenha mais informações específicas sobre o pokémon selecionado.
